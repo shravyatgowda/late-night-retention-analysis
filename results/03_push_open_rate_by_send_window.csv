@@ -1,0 +1,3 @@
+push_group,send_window,pushes,open_rate_pct
+control,daytime,10458,14.6
+treatment,evening_21_23,10542,23.5

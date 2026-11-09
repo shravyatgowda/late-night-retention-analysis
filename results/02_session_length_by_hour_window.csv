@@ -1,0 +1,5 @@
+push_group,hour_window,sessions,avg_session_min
+control,late_night_21_24,1678,7.58
+treatment,late_night_21_24,8418,9.44
+control,other_hours,10065,7.79
+treatment,other_hours,5283,7.9
